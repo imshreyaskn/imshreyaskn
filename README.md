@@ -1,9 +1,8 @@
 # SHREYAS
-##Cloud · Web Development · Agentic AI · Data Structures & Algorithms
-
+### Cloud · Web Development · Agentic AI · Data Structures & Algorithms
 I build efficient, scalable software and modern web applications.  
 Currently focused on mastering core CS, full-stack development, and applied AI tooling.
-
+</br>
 
 ### TECH STACK
 
@@ -33,4 +32,4 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 
 **GitHub** &nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn](https://github.com/imshreyaskn)  
 **LinkedIn** &nbsp;&nbsp; [imshreyaskn](https://www.linkedin.com/in/imshreyaskn)  
-**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn@gmail.com](mailto:imshreyaskn@gmail.com)
+**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn@gmail.com](mailto:imshreyaskn@gmail.com)
