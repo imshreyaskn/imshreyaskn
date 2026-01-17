@@ -1,11 +1,11 @@
 # SHREYAS
 ### Cloud · Web Development · Agentic AI · Data Structures & Algorithms
 
-I build efficient, scalable software and modern web applications.  
-Currently focused on mastering core CS, full-stack development, and applied AI tooling.
+- I build efficient, scalable software and modern web applications.  
+- Currently focused on mastering core CS, full-stack development, and applied AI tooling.
 
 
-### 01 TECH STACK
+### TECH STACK
 
 **Languages** `Java` `Python` `JavaScript` `SQL` `Go`
 
@@ -18,7 +18,8 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 **Tools** `Git & GitHub` `VS Code` `Notion` `Figma` `Blender`
 
 
-### 02 CURRENT FOCUS
+
+### CURRENT FOCUS
 
 **Advanced DSA** Mastery of complex problem-solving patterns.
 
@@ -27,7 +28,8 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 **Agentic AI** Developing autonomous systems using LangChain.
 
 
-### 03 CONNECT
+
+### CONNECT
 
 **GitHub** &nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn](https://github.com/imshreyaskn)  
 **LinkedIn** &nbsp;&nbsp; [imshreyaskn](https://www.linkedin.com/in/imshreyaskn)  
