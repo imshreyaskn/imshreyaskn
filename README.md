@@ -1,64 +1,64 @@
-<h1 align="center">Hey, I'm Shreyas</h1>
+# Shreyas
 
-<p align="center">
-  <strong>Cloud</strong> • <strong>Web Development</strong> • <strong>Agentic AI</strong> • <strong>DSA</strong>
-</p>
+Cloud · Web Development · Agentic AI · Data Structures & Algorithms
 
-<p align="center">
-  Building efficient, scalable software and modern web applications.<br/>
-  Strong in problem-solving, data structures, and algorithms.<br/>
-  Currently focused on full-stack systems and applied AI workflows.
-</p>
+I build efficient, scalable software and modern web applications with a strong
+focus on fundamentals and system clarity.
+
+Solid in problem-solving, data structures, and algorithms.  
+Currently working on full-stack systems and applied AI workflows.
 
 ---
 
-## 🧠 What I Work With
+## Tech Stack
 
-### 💻 Languages
-- Java
-- Python
-- JavaScript
-- SQL
-- Go
+### Languages
+Java  
+Python  
+JavaScript  
+SQL  
+Go  
 
-### 🌐 Web Development
-- HTML5 • CSS3 • JavaScript (ES6+)
-- React
-- Tailwind CSS
+### Web Development
+HTML5  
+CSS3  
+JavaScript (ES6+)  
+React  
+Tailwind CSS  
 
-### ⚙ Backend • AI • Cloud
-- FastAPI
-- LangChain
-- REST API development
-- Cloud-based application development
+### Backend · AI · Cloud
+FastAPI  
+LangChain  
+REST API development  
+Cloud-based application development  
 
-### 🗄 Databases
-- MySQL
-- MongoDB
+### Databases
+MySQL  
+MongoDB  
 
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Notion
-- Figma
-- Blender
-
----
-
-## 🎯 Current Focus
-- Advanced DSA & problem-solving patterns  
-- Full-stack web development with React  
-- Agentic AI systems using LangChain  
+### Tools
+Git & GitHub  
+VS Code  
+Notion  
+Figma  
+Blender  
 
 ---
 
-## 🤝 Connect With Me
-- **GitHub** → https://github.com/imshreyaskn  
-- **LinkedIn** → https://www.linkedin.com/in/imshreyaskn  
-- **Email** → imshreyaskn@gmail.com  
+## Current Focus
+
+Advanced DSA and problem-solving patterns  
+Full-stack web development with React  
+Agentic AI systems using LangChain  
 
 ---
 
-<p align="center">
-  <i>Build fundamentals. Ship clean systems. Improve relentlessly.</i>
-</p>
+## Connect
+
+GitHub — https://github.com/imshreyaskn  
+LinkedIn — https://www.linkedin.com/in/imshreyaskn  
+Email — imshreyaskn@gmail.com  
+
+---
+
+Build fundamentals. Ship clean systems. Improve relentlessly.
