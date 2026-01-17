@@ -1,8 +1,8 @@
 # SHREYAS
-### Cloud · Web Development · Agentic AI · Data Structures & Algorithms
+##Cloud · Web Development · Agentic AI · Data Structures & Algorithms
 
-- I build efficient, scalable software and modern web applications.  
-- Currently focused on mastering core CS, full-stack development, and applied AI tooling.
+I build efficient, scalable software and modern web applications.  
+Currently focused on mastering core CS, full-stack development, and applied AI tooling.
 
 
 ### TECH STACK
