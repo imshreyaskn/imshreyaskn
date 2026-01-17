@@ -1,12 +1,8 @@
-# Shreyas
+# I'm Shreyas
+### Cloud · Web Development · Agentic AI · Data Structures & Algorithms
 
-Cloud · Web Development · Agentic AI · Data Structures & Algorithms
-
-I build efficient, scalable software and modern web applications with a strong
-focus on fundamentals and system clarity.
-
-Solid in problem-solving, data structures, and algorithms.  
-Currently working on full-stack systems and applied AI workflows.
+I build efficient, scalable software and modern web applications.  
+Currently focused on mastering core CS, full-stack development, and applied AI tooling.
 
 ---
 
@@ -60,5 +56,3 @@ LinkedIn — https://www.linkedin.com/in/imshreyaskn
 Email — imshreyaskn@gmail.com  
 
 ---
-
-Build fundamentals. Ship clean systems. Improve relentlessly.
