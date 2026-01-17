@@ -1,37 +1,34 @@
 # SHREYAS
-**Cloud · Web Development · Agentic AI · Data Structures & Algorithms**
+### Cloud · Web Development · Agentic AI · Data Structures & Algorithms
 
-> I build efficient, scalable software and modern web applications.  
-> Currently focused on mastering core CS, full-stack development, and applied AI tooling.
+I build efficient, scalable software and modern web applications.  
+Currently focused on mastering core CS, full-stack development, and applied AI tooling.
 
----
 
-### 01. TECH STACK
+### 01 TECH STACK
 
-**Languages** Java / Python / JavaScript / SQL / Go  
+**Languages** `Java` `Python` `JavaScript` `SQL` `Go`
 
-**Web Development** HTML5 / CSS3 / JavaScript (ES6+) / React / Tailwind CSS  
+**Web Development** `HTML5` `CSS3` `JavaScript (ES6+)` `React` `Tailwind CSS`
 
-**Backend · AI · Cloud** FastAPI / LangChain / REST API development / Cloud-based application development  
+**Backend · AI · Cloud** `FastAPI` `LangChain` `REST API development` `Cloud-based application`
 
-**Databases** MySQL / MongoDB  
+**Databases** `MySQL` `MongoDB`
 
-**Tools** Git & GitHub / VS Code / Notion / Figma / Blender  
+**Tools** `Git & GitHub` `VS Code` `Notion` `Figma` `Blender`
 
----
 
-### 02. CURRENT FOCUS
+### 02 CURRENT FOCUS
 
-* **Advanced DSA** — Mastery of complex problem-solving patterns.
-* **Full-stack Web** — Building responsive architectures with React.
-* **Agentic AI** — Developing autonomous systems using LangChain.
+**Advanced DSA** Mastery of complex problem-solving patterns.
 
----
+**Full-stack Web** Building responsive architectures with React.
 
-### 03. CONNECT
+**Agentic AI** Developing autonomous systems using LangChain.
 
-**GitHub**        [imshreyaskn](https://github.com/imshreyaskn)  
-**LinkedIn**     [imshreyaskn](https://www.linkedin.com/in/imshreyaskn)  
-**Email**          [imshreyaskn@gmail.com](mailto:imshreyaskn@gmail.com)
 
----
+### 03 CONNECT
+
+**GitHub** &nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn](https://github.com/imshreyaskn)  
+**LinkedIn** &nbsp;&nbsp; [imshreyaskn](https://www.linkedin.com/in/imshreyaskn)  
+**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn@gmail.com](mailto:imshreyaskn@gmail.com)
