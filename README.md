@@ -1,39 +1,42 @@
-# Hey, I'm Shreyas
+<h1 align="center">Hey, I'm Shreyas</h1>
 
-Cloud | Web Dev | Agentic AI | DSA
+<p align="center">
+  <strong>Cloud</strong> • <strong>Web Development</strong> • <strong>Agentic AI</strong> • <strong>DSA</strong>
+</p>
 
-I build efficient, scalable software and modern web applications.  
-Strong in problem-solving, Data structures, and Algorithms.  
-Currently focused on mastering core CS, full-stack development, and applied AI tooling.
+<p align="center">
+  Building efficient, scalable software and modern web applications.<br/>
+  Strong in problem-solving, data structures, and algorithms.<br/>
+  Currently focused on full-stack systems and applied AI workflows.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 What I Work With
 
-### Languages
+### 💻 Languages
 - Java
 - Python
 - JavaScript
 - SQL
-- GoLang
+- Go
 
-### Web Development
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+### 🌐 Web Development
+- HTML5 • CSS3 • JavaScript (ES6+)
 - React
 - Tailwind CSS
 
-### Backend / AI / Cloud
-- LangChain
+### ⚙ Backend • AI • Cloud
 - FastAPI
+- LangChain
+- REST API development
 - Cloud-based application development
 
-### Databases
+### 🗄 Databases
 - MySQL
 - MongoDB
 
-### Tools
+### 🧰 Tools
 - Git & GitHub
 - VS Code
 - Notion
@@ -42,24 +45,20 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 
 ---
 
-## 📌 Current Focus
-- Advanced DSA & problem-solving patterns
-- Full-stack web development with React
-- Practical AI integration using LangChain
+## 🎯 Current Focus
+- Advanced DSA & problem-solving patterns  
+- Full-stack web development with React  
+- Agentic AI systems using LangChain  
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imshreyaskn&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imshreyaskn&layout=compact)
-
----
-
-## 📫 Connect
-- GitHub: https://github.com/imshreyaskn
-- LinkedIn: www.linkedin.com/in/imshreyaskn
-- Email: imshreyaskn@gmail.com
+## 🤝 Connect With Me
+- **GitHub** → https://github.com/imshreyaskn  
+- **LinkedIn** → https://www.linkedin.com/in/imshreyaskn  
+- **Email** → imshreyaskn@gmail.com  
 
 ---
+
+<p align="center">
+  <i>Build fundamentals. Ship clean systems. Improve relentlessly.</i>
+</p>
