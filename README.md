@@ -10,7 +10,7 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 
 **Web Development** - `HTML5` `CSS3` `JavaScript (ES6+)` `React` `Tailwind CSS` `Chrome Extention`
 
-**Backend AI Cloud** - `FastAPI` `LangChain` `AWS` `Azure Cloud Services`
+**Cloud** - `AWS` `Azure` `Terraform`
 
 **AI / ML** - `LangChain` `Vector Databases` `RAG`
 
