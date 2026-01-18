@@ -24,9 +24,9 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 
 **Advanced DSA** Mastering of complex problem-solving patterns.
 
-**Full-stack Web** Building responsive architectures with React.
+**Full-stack Web** Building beautiful & responsive web applications with React.
 
-**Agentic AI** Developing autonomous systems using LangChain.
+**Agentic AI** Developing automations & agents using LangChain.
 
 ### CONNECT
 
