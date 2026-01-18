@@ -8,19 +8,21 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 
 **Languages** - `Java` `Python` `JavaScript` `SQL` `Go`
 
-**Web Development** - `HTML5` `CSS3` `JavaScript (ES6+)` `React` `Tailwind CSS`
+**Web Development** - `HTML5` `CSS3` `JavaScript (ES6+)` `React` `Tailwind CSS` `Chrome Extention`
 
 **Backend AI Cloud** - `FastAPI` `LangChain` `AWS` `Azure Cloud Services`
 
-**Databases** - `MySQL` `MongoDB`
+**AI / ML** - `LangChain` `Vector Databases` `RAG`
 
-**Tools** - `Git & GitHub` `VS Code` `Notion` `Figma` `Blender`
+**Databases & API** - `MySQL` `MongoDB` `FastAPI` `ExpressJS` `SpringBoot`
+
+**Tools** - `Git & GitHub` `VS Code` `Notion` `Figma` `Blender` `n8n`
 
 
 
 ### CURRENT FOCUS
 
-**Advanced DSA** Mastery of complex problem-solving patterns.
+**Advanced DSA** Mastering of complex problem-solving patterns.
 
 **Full-stack Web** Building responsive architectures with React.
 
