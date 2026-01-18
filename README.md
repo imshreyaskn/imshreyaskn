@@ -6,15 +6,15 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 
 ### TECH STACK
 
-**Languages** `Java` `Python` `JavaScript` `SQL` `Go`
+**Languages** - `Java` `Python` `JavaScript` `SQL` `Go`
 
-**Web Development** `HTML5` `CSS3` `JavaScript (ES6+)` `React` `Tailwind CSS`
+**Web Development** - `HTML5` `CSS3` `JavaScript (ES6+)` `React` `Tailwind CSS`
 
-**Backend · AI · Cloud** `FastAPI` `LangChain` `REST API development` `Cloud-based application`
+**Backend AI Cloud** - `FastAPI` `LangChain` `AWS` `Azure Cloud Services`
 
-**Databases** `MySQL` `MongoDB`
+**Databases** - `MySQL` `MongoDB`
 
-**Tools** `Git & GitHub` `VS Code` `Notion` `Figma` `Blender`
+**Tools** - `Git & GitHub` `VS Code` `Notion` `Figma` `Blender`
 
 
 
