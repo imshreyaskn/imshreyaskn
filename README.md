@@ -6,9 +6,9 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 
 ### TECH STACK
 
-**Languages** - `Java` `Python` `JavaScript` `SQL` `Go`
+**Languages** - `Java` `Python` `JavaScript` `Go`
 
-**Web Development** - `HTML5` `CSS3` `JavaScript (ES6+)` `React` `Tailwind CSS` `Chrome Extention`
+**Web Development** - `React` `Tailwind CSS`
 
 **Cloud** - `AWS` `Azure` `Terraform`
 
@@ -16,7 +16,7 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 
 **Databases & API** - `MySQL` `MongoDB` `FastAPI` `ExpressJS` `SpringBoot`
 
-**Tools** - `Git & GitHub` `VS Code` `Notion` `Figma` `Blender` `n8n`
+**Tools** - `Git & GitHub` `VS Code` `Notion` `Figma` `Blender`
 
 
 
