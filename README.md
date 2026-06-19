@@ -1,4 +1,4 @@
-# SHREYAS &nbsp;[![resume](https://img.shields.io/badge/Resume-PDF-black?style=flat-square)](https://raw.githubusercontent.com/imshreyaskn/imshreyaskn/main/resume/resume.pdf)
+# SHREYAS &nbsp;
 ### Cloud · Web Development · Agentic AI · Data Structures & Algorithms
 I build efficient, scalable software and modern web applications.  
 Currently focused on mastering core CS, full-stack development, and applied AI tooling.
@@ -29,7 +29,7 @@ Currently focused on mastering core CS, full-stack development, and applied AI t
 **Agentic AI** Developing automations & agents using LangChain.
 
 ### CONNECT
-
+**Portfolio** &nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn](https://shreyaskns.vercel.app)  
 **GitHub** &nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn](https://github.com/imshreyaskn)  
 **LinkedIn** &nbsp;&nbsp; [imshreyaskn](https://www.linkedin.com/in/imshreyaskn)  
 **Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn@gmail.com](mailto:imshreyaskn@gmail.com)
