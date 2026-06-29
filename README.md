@@ -1,35 +1,33 @@
-# SHREYAS &nbsp;
-### Cloud · Web Development · Agentic AI · Data Structures & Algorithms
-I build efficient, scalable software and modern web applications.  
-Currently focused on mastering core CS, full-stack development, and applied AI tooling.
-</br>
+<h1 align="center">SHREYAS K N</h1>
 
-### TECH STACK
+<p align="center">
+  LLM Security &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Systems
+</p>
 
-**Languages** - `Java` `Python` `JavaScript` `Go`
+<p align="center">
+  <a href="https://shreyaskns.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/imshreyaskn">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/imshreyaskn">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:imshreyaskn@gmail.com">Email</a>
+</p>
 
-**Web Development** - `React` `Tailwind CSS`
+---
 
-**Cloud** - `AWS` `Azure` `Terraform`
+Final-year CS student building AI agents, LLM security tools, and automation systems.  
+Focused on adversarial red-teaming, browser automation, and self-healing CI/CD workflows.
 
-**AI / ML** - `LangChain` `Vector Databases` `RAG`
+---
 
-**Databases & API** - `MySQL` `MongoDB` `FastAPI` `ExpressJS` `SpringBoot`
+**Languages** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Python` `Java` `JavaScript` `Go`  
+**AI / LLM** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `LangChain` `LangGraph` `RAG` `FAISS` `ONNX Runtime`  
+**Backend & Databases** &nbsp; `FastAPI` `Express.js` `Spring Boot` `PostgreSQL` `Supabase`  
+**Cloud & DevOps** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `AWS` `Azure` `Docker` `Terraform`  
+**Web & Automation** &nbsp;&nbsp;&nbsp;&nbsp; `React` `Tailwind CSS` `Chrome Extensions (MV3)`
 
-**Tools** - `Git & GitHub` `VS Code` `Notion` `Figma` `Blender`
+---
 
+**Current Focus**
 
-
-### CURRENT FOCUS
-
-**Advanced DSA** Mastering of complex problem-solving patterns.
-
-**Full-stack Web** Building beautiful & responsive web applications with React.
-
-**Agentic AI** Developing automations & agents using LangChain.
-
-### CONNECT
-**Portfolio** &nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn](https://shreyaskns.vercel.app)  
-**GitHub** &nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn](https://github.com/imshreyaskn)  
-**LinkedIn** &nbsp;&nbsp; [imshreyaskn](https://www.linkedin.com/in/imshreyaskn)  
-**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [imshreyaskn@gmail.com](mailto:imshreyaskn@gmail.com)
+- Advanced DSA — mastering complex problem-solving patterns
+- Full-stack Web — building responsive web applications with React
+- Agentic AI — developing automations and agents using LangChain
