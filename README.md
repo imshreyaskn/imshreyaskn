@@ -1,7 +1,7 @@
-<h1 align="center">Shreyas K N</h1>
+<h1 align="center">SHREYAS K N</h1>
 
 <p align="center">
-Cloud • AI • Systems
+CLOUD - AGENTIC SYSTEMS • FULL STACK
 </p>
 
 <p align="center">
@@ -38,4 +38,4 @@ LangChain · LangGraph · RAG · PostgreSQL
 
 ---
 
-> Build visual experiance not just software.
+> Build visual experiances not just software.
