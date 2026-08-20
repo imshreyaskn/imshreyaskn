@@ -1,8 +1,12 @@
-# Shreyas K N
+<div align="center">
+
+# SHREYAS K N
 
 **Cloud · Agentic Systems · Full Stack**
 
 Building cloud-native AI products, resilient backend systems, and agentic workflows.
+
+</div>
 
 ---
 
