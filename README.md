@@ -85,13 +85,3 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/imshreyaskn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/imshreyaskn)
 
 - **Email:** [![Email](https://img.shields.io/badge/imshreyaskn@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:imshreyaskn@gmail.com)
-
-<br/>
-
-<div align="center">
-
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-
-**Thanks for stopping by!**
-
-</div>
