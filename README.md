@@ -70,10 +70,6 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 <div align="center">
 
-<img src="./stats.svg" width="620" alt="Stats overview"/>
-
-<img src="./streak.svg" width="620" alt="Current and longest streak"/>
-
 <img src="./langs.svg" width="620" alt="Top languages by bytes and repo count"/>
 
 <img src="./year.svg" width="620" alt="Contributions timeline"/>
