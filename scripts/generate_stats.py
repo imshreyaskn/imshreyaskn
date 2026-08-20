@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Draw the profile README's stat graphics from the GitHub GraphQL API.
+"""Draw profile stat graphics from GitHub GraphQL API with PAT support."""
 
 No third-party services and no dependencies — standard library only.
 
