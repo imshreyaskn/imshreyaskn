@@ -64,6 +64,20 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 | **Lucy** | Voice-controlled AI accessibility assistant enabling hands-free web navigation and browser task automation. | [![GitHub](https://img.shields.io/badge/GitHub-Lucy-8B0000?logo=github&logoColor=white&style=flat-square)](https://github.com/imshreyaskn/Lucy) | [![Live](https://img.shields.io/badge/Live-Demo-1F3A93?logo=vercel&logoColor=white&style=flat-square)](https://lucyx.vercel.app/) |
 | **Valerie** | Automated red-teaming multi-agent platform evaluating LLM applications against 15+ adversarial attack vectors. | [![GitHub](https://img.shields.io/badge/GitHub-Valerie-8B0000?logo=github&logoColor=white&style=flat-square)](https://github.com/imshreyaskn/Valerie) | [![Live](https://img.shields.io/badge/Live-Demo-1F3A93?logo=vercel&logoColor=white&style=flat-square)](https://valerie-beta.vercel.app/) |
 
+## Stats
+
+<div align="center">
+
+<img src="./stats.svg" width="620" alt="Stats overview"/>
+
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and repo count"/>
+
+<img src="./year.svg" width="620" alt="Contributions timeline"/>
+
+</div>
+
 ---
 
 ## Currently Exploring
