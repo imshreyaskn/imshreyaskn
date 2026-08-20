@@ -15,54 +15,39 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-
-**Backend**
+**Backend & Data**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?logo=fastapi&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 
-**AI / ML**
+**AI & Systems**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square)
-![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-5C3EE8?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-5C3EE8?style=flat-square)
 ![LLM Security](https://img.shields.io/badge/LLM_Security-8B0000?style=flat-square)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?logo=amazonaws&logoColor=white&style=flat-square)
 
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-
-**DevOps**
+**Cloud & Infra**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white&style=flat-square)
 
-**Tools**
+**Frontend**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
-**Specializations**
+**Core CS**
 
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-8B0000?style=flat-square)
 ![System Design](https://img.shields.io/badge/System_Design-1F3A93?style=flat-square)
-![LLM Security](https://img.shields.io/badge/LLM_Security-8B0000?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-1F3A93?style=flat-square)
-![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-8B0000?style=flat-square)
-![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-1F3A93?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-8B0000?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-1F3A93?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-8B0000?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-1F3A93?style=flat-square)
 
 ---
 
