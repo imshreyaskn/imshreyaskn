@@ -43,9 +43,9 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
         weeks { contributionDays { contributionCount date weekday } }
       }
     }
-    repositories(first: 100, ownerAffiliations: OWNER, isFork: false,
-                 privacy: PUBLIC) {
+    repositories(first: 100, ownerAffiliations: OWNER, isFork: false) {
       nodes {
+        name
         languages(first: 12, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name } }
         }
@@ -162,13 +162,19 @@ def streaks(days):
     return cur, best
 
 
+IGNORED_REPOS = {s.strip().lower() for s in os.environ.get("IGNORED_REPOS", "relay").split(",") if s.strip()}
+
+
 def languages(repos):
     by_size, by_repo = {}, {}
     for node in repos:
+        repo_name = node.get("name", "").lower()
+        if repo_name in IGNORED_REPOS:
+            continue
         edges = (node.get("languages") or {}).get("edges") or []
         for e in edges:
-            name = e["node"]["name"]
-            by_size[name] = by_size.get(name, 0) + e["size"]
+            lang_name = e["node"]["name"]
+            by_size[lang_name] = by_size.get(lang_name, 0) + e["size"]
         if edges:                       # primary language of the repo
             top = edges[0]["node"]["name"]
             by_repo[top] = by_repo.get(top, 0) + 1
