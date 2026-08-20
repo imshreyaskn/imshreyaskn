@@ -8,9 +8,7 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 </div>
 
----
-
----
+<img src="./divider.svg" width="100%" alt="divider" />
 
 ## Stack
 
@@ -55,9 +53,7 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-8B0000?style=flat-square)
 ![Computer Networks](https://img.shields.io/badge/Computer_Networks-1F3A93?style=flat-square)
 
----
-
----
+<img src="./divider.svg" width="100%" alt="divider" />
 
 ## Projects
 
@@ -68,9 +64,7 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 | **Lucy** | Voice-controlled AI accessibility assistant enabling hands-free web navigation and browser task automation. | [![GitHub](https://img.shields.io/badge/GitHub-Lucy-8B0000?logo=github&logoColor=white&style=flat-square)](https://github.com/imshreyaskn/Lucy) | [![Live](https://img.shields.io/badge/Live-Demo-1F3A93?logo=vercel&logoColor=white&style=flat-square)](https://lucyx.vercel.app/) |
 | **Valerie** | Automated red-teaming multi-agent platform evaluating LLM applications against 15+ adversarial attack vectors. | [![GitHub](https://img.shields.io/badge/GitHub-Valerie-8B0000?logo=github&logoColor=white&style=flat-square)](https://github.com/imshreyaskn/Valerie) | [![Live](https://img.shields.io/badge/Live-Demo-1F3A93?logo=vercel&logoColor=white&style=flat-square)](https://valerie-beta.vercel.app/) |
 
----
-
----
+<img src="./divider.svg" width="100%" alt="divider" />
 
 ## Stats
 
@@ -86,9 +80,7 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 </div>
 
----
-
----
+<img src="./divider.svg" width="100%" alt="divider" />
 
 ## Currently Exploring
 
@@ -98,9 +90,7 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 - High-Performance Distributed Systems
 - Open Source Tooling
 
----
-
----
+<img src="./divider.svg" width="100%" alt="divider" />
 
 ## Contact
 
