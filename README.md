@@ -8,6 +8,10 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 </div>
 
+---
+
+---
+
 ## Stack
 
 **Languages**
@@ -53,6 +57,8 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 ---
 
+---
+
 ## Projects
 
 | Project | Description | Repository | Live Demo |
@@ -61,6 +67,8 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 | **Alethia** | Self-healing CI/CD agent integrated as a GitHub App that diagnoses test failures and validates automated containerized fixes. | [![GitHub](https://img.shields.io/badge/GitHub-Alethia-8B0000?logo=github&logoColor=white&style=flat-square)](https://github.com/imshreyaskn/Alethia) | [![Live](https://img.shields.io/badge/Live-Demo-1F3A93?logo=vercel&logoColor=white&style=flat-square)](https://alethia-gamma.vercel.app/) |
 | **Lucy** | Voice-controlled AI accessibility assistant enabling hands-free web navigation and browser task automation. | [![GitHub](https://img.shields.io/badge/GitHub-Lucy-8B0000?logo=github&logoColor=white&style=flat-square)](https://github.com/imshreyaskn/Lucy) | [![Live](https://img.shields.io/badge/Live-Demo-1F3A93?logo=vercel&logoColor=white&style=flat-square)](https://lucyx.vercel.app/) |
 | **Valerie** | Automated red-teaming multi-agent platform evaluating LLM applications against 15+ adversarial attack vectors. | [![GitHub](https://img.shields.io/badge/GitHub-Valerie-8B0000?logo=github&logoColor=white&style=flat-square)](https://github.com/imshreyaskn/Valerie) | [![Live](https://img.shields.io/badge/Live-Demo-1F3A93?logo=vercel&logoColor=white&style=flat-square)](https://valerie-beta.vercel.app/) |
+
+---
 
 ---
 
@@ -80,6 +88,8 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 ---
 
+---
+
 ## Currently Exploring
 
 - Multi-Agent Orchestration & Autonomous Systems
@@ -87,6 +97,8 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 - Cloud-Native Infrastructure & IaC
 - High-Performance Distributed Systems
 - Open Source Tooling
+
+---
 
 ---
 
