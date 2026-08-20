@@ -10,8 +10,6 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 <img src="./divider.svg" width="100%" alt="divider" />
 
-## Stack
-
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
@@ -55,8 +53,6 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 <img src="./divider.svg" width="100%" alt="divider" />
 
-## Projects
-
 | Project | Description | Repository | Live Demo |
 | --- | --- | --- | --- |
 | **Lurien Matrix** | Transparent middleware proxy intercepting prompts through 6 sequential security layers with sub-150ms latency. | [![GitHub](https://img.shields.io/badge/GitHub-Lurien--Matrix-8B0000?logo=github&logoColor=white&style=flat-square)](https://github.com/imshreyaskn/Lurien-Matrix) | [![Live](https://img.shields.io/badge/Live-Demo-1F3A93?logo=vercel&logoColor=white&style=flat-square)](https://lurienmatrix.vercel.app/) |
@@ -65,8 +61,6 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 | **Valerie** | Automated red-teaming multi-agent platform evaluating LLM applications against 15+ adversarial attack vectors. | [![GitHub](https://img.shields.io/badge/GitHub-Valerie-8B0000?logo=github&logoColor=white&style=flat-square)](https://github.com/imshreyaskn/Valerie) | [![Live](https://img.shields.io/badge/Live-Demo-1F3A93?logo=vercel&logoColor=white&style=flat-square)](https://valerie-beta.vercel.app/) |
 
 <img src="./divider.svg" width="100%" alt="divider" />
-
-## Stats
 
 <div align="center">
 
@@ -78,8 +72,6 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 <img src="./divider.svg" width="100%" alt="divider" />
 
-## Currently Exploring
-
 - Multi-Agent Orchestration & Autonomous Systems
 - LLM Security Proxies & Adversarial Robustness
 - Cloud-Native Infrastructure & IaC
@@ -87,8 +79,6 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 - Open Source Tooling
 
 <img src="./divider.svg" width="100%" alt="divider" />
-
-## Contact
 
 - **Portfolio:** [![Portfolio](https://img.shields.io/badge/shreyaskns.vercel.app-000000?logo=vercel&logoColor=white&style=flat-square)](https://shreyaskns.vercel.app)
 
