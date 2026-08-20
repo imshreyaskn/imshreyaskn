@@ -6,7 +6,7 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 ---
 
-## 🕸️ Stack
+## Stack
 
 **Languages**
 
@@ -66,7 +66,7 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 ---
 
-## 🕸️ Projects
+## Projects
 
 | Project | Description | Repository | Live Demo |
 | --- | --- | --- | --- |
@@ -77,7 +77,7 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 ---
 
-## 🕸️ Currently Exploring
+## Currently Exploring
 
 - Multi-Agent Orchestration & Autonomous Systems
 - LLM Security Proxies & Adversarial Robustness
@@ -87,7 +87,7 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 ---
 
-## 🕸️ Contact
+## Contact
 
 - **Portfolio:** [![Portfolio](https://img.shields.io/badge/shreyaskns.vercel.app-000000?logo=vercel&logoColor=white&style=flat-square)](https://shreyaskns.vercel.app)
 
@@ -101,7 +101,7 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 <div align="center">
 
-🕷️ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🕸️
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 **Thanks for stopping by!**
 
