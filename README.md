@@ -8,8 +8,6 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 </div>
 
----
-
 ## Stack
 
 **Languages**
