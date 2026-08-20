@@ -2,7 +2,7 @@
 
 # SHREYAS K N
 
-**Cloud · Agentic Systems · Full Stack**
+**Cloud - Agentic Systems - Full Stack**
 
 Building cloud-native AI products, resilient backend systems, and agentic workflows.
 
@@ -72,6 +72,6 @@ Building cloud-native AI products, resilient backend systems, and agentic workfl
 
 <div align="center">
 
-`Multi-Agent Orchestration` &nbsp;·&nbsp; `LLM Security Proxies` &nbsp;·&nbsp; `Cloud-Native Infrastructure` &nbsp;·&nbsp; `Distributed Systems`
+`Multi-Agent Orchestration` &nbsp;-&nbsp; `LLM Security Proxies` &nbsp;-&nbsp; `Cloud-Native Infrastructure` &nbsp;-&nbsp; `Distributed Systems`
 
 </div>
