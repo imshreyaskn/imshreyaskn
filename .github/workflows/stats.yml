@@ -3,6 +3,10 @@ name: refresh stats
 # Deliberately no `push` trigger: this job commits stats.svg, and a push
 # trigger would make it re-run on its own commit.
 on:
+  push:
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/stats.yml'
   schedule:
     - cron: "17 5 * * *"
   workflow_dispatch:
